@@ -4,11 +4,12 @@
 
 I love to challenge myself and have found that I thrive in dynamic environments. At the end of the day, I’d like to think of myself as a lifelong learner who is continuously growing.
 
-- 👩🏻‍💻 I graduated from the Grace Hopper Program at Fullstack Academy
-- 🌱 I'm currently taking Harvard's CS50's Introduction to Computer Science
-- 👯 I’m looking for a new role on a team that is passionate about the product
+- 🌱 I'm currently taking Harvard's CS50's Intro to Computer Science
+- 👩🏻‍💻 I graduated from the Grace Hopper Program at Fullstack Academy **July '21**
+- 👯 I’m looking for a new role on a team that is passionate about the product and making a positive impact
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/victoriakim20/)
-- ⚡️ Hobbies: I love to watercolor, cook NYT Cooking recipes, craft holiday cards, and eat anything noodle-y.
+- 📚 Reading: *Eloquent Javascript* by Marijn Haverbeke & *Lessons in Chemistry* by Bonnie Garmus
+- ⚡️ Hobbies: I love to watercolor, cook NYT Cooking recipes, craft holiday cards, and eat anything noodle-y
 - 😄 Pronouns: she/her/hers
 
 <!--
