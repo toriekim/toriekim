@@ -1,16 +1,15 @@
 ## Hello, I'm Victoria... 👋
 
-...but most call me Torie. I'm an energetic, self-driven full-stack engineer. My background is in creative writing, literature, and publishing. After working in editing and hospitality, I decided to pursue a certificate in graphic design to diversify my skills. During this time, I fell in love with web design and coding -- I had finally found something that combined my creativity with my love of puzzles and problem-solving. So I applied and enrolled in the Grace Hopper Program at Fullstack Academy, a 17-week immersive full-stack course. After graduating, I continued my journey as a Software Engineer first as a Teaching Fellow at Fullstack and then at Liftoff Mobile (Influence division, formerly Jetfuel) as a Fullstack Software Engineer on the Frontend Web Development Team. 
+...but most call me Torie. I'm a Founding Engineer at Pagent, a social gaming startup where I build full-stack mobile experiences using React Native, Node.js, and AWS. I thrive in fast-paced, early-stage environments where I can wear many hats, make product decisions, and ship quickly.
 
-I love to challenge myself and have found that I thrive in dynamic environments. At the end of the day, I’d like to think of myself as a lifelong learner who is continuously growing.
+My path into tech wasn’t a linear one. I started in publishing and hospitality, then pivoted into graphic design, and ultimately found a home in software engineering after graduating from the Grace Hopper Program at Fullstack Academy. Since then, I’ve worked as a teaching fellow, full-stack engineer, and now founding engineer — where I’m constantly learning, leading, and scaling.
 
-- 🌱 I'm currently taking Harvard's CS50's Intro to Computer Science
-- 👩🏻‍💻 I graduated from the Grace Hopper Program at Fullstack Academy **July '21**
-- 👯 I’m looking for a new role on a team that is passionate about the product and making a positive impact
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/victoriakim20/)
-- 📚 Reading: *Eloquent Javascript* by Marijn Haverbeke & *Lessons in Chemistry* by Bonnie Garmus
-- ⚡️ Hobbies: I love to watercolor, cook NYT Cooking recipes, craft holiday cards, and eat anything noodle-y
-- 😄 Pronouns: she/her/hers
+⚡️ Currently: Building Pagent from the ground up
+💡 Previously: Liftoff Mobile (Jetfuel), Fullstack Academy
+📚 Always learning — most recently through open source, peer mentorship, and technical books
+🎨 Outside of code: Watercoloring, cooking NYT recipes, making cards, and chasing the perfect noodle dish
+😄 Pronouns: she/her/hers
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/victoriakim20/)
 
 <!--
 **toriekim/toriekim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
