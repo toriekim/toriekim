@@ -4,12 +4,12 @@
 
 My path into tech wasn’t a linear one. I started in publishing and hospitality, then pivoted into graphic design, and ultimately found a home in software engineering after graduating from the Grace Hopper Program at Fullstack Academy. Since then, I’ve worked as a teaching fellow, full-stack engineer, and now founding engineer — where I’m constantly learning, leading, and scaling.
 
-⚡️ Currently: Building Pagent from the ground up
-💡 Previously: Liftoff Mobile (Jetfuel), Fullstack Academy
-📚 Always learning — most recently through open source, peer mentorship, and technical books
-🎨 Outside of code: Watercoloring, cooking NYT recipes, making cards, and chasing the perfect noodle dish
-😄 Pronouns: she/her/hers
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/victoriakim20/)
+- ⚡️ Currently: Building Pagent from the ground up
+- 💡 Previously: Liftoff Mobile (Jetfuel), Fullstack Academy
+- 📚 Always learning — most recently through open source, peer mentorship, and technical books
+- 🎨 Outside of code: Watercoloring, cooking NYT recipes, making cards, and chasing the perfect noodle dish
+- 😄 Pronouns: she/her/hers
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/victoriakim20/)
 
 <!--
 **toriekim/toriekim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
